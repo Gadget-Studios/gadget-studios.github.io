@@ -1,2 +1,2 @@
 # gadget-studios.github.io
-Offical Webpage
+Official Webpage
